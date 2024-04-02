@@ -73,6 +73,7 @@ public class Main {
     // letter by bol 'h'
     // funkcia by vratila "___h__"
     // xxxx
+    // yyyyy
     public static String revealLetters(String wordToGuess, String hiddenWord, char letter) {
         char[] hiddenWordChars = hiddenWord.toCharArray();
 
