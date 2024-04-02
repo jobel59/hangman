@@ -72,6 +72,7 @@ public class Main {
     // hiddenWord by mohol byt "______"
     // letter by bol 'h'
     // funkcia by vratila "___h__"
+    // xxxx
     public static String revealLetters(String wordToGuess, String hiddenWord, char letter) {
         char[] hiddenWordChars = hiddenWord.toCharArray();
 
